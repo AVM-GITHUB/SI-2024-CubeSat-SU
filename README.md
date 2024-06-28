@@ -4,7 +4,7 @@
 # Lab Excercises
 
 ## Lab-1 Introduction to ESP-32
-- [Datsheet_ESP32] (https://github.com/silicon-sat/SI-2024-CubeSat/blob/main/docs/Datasheet-ESP32.pdf )
+- [Datsheet_ESP32](https://github.com/silicon-sat/SI-2024-CubeSat/blob/main/docs/Datasheet-ESP32.pdf )
 
 ## Lab-2 Blinking LED 
 
