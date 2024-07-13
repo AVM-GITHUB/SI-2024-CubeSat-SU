@@ -1,4 +1,4 @@
-# Introduction to CubeSat and satellite Communication 
+# Introduction to CubeSat and Satellite Communication 
 
 ![image](https://github.com/user-attachments/assets/d0aab0e4-ad3b-482b-9978-4dbb1321aaa1)
 
@@ -95,6 +95,11 @@ Phase-shift keying is a digital modulation process which conveys data by changin
  
 ## ELectromagnetic Specturm
 
+The sun is our planet’s principal source of energy, and its energy travels in the form of electromagnetic radiation. Electromagnetic energy moves across space at the speed of light in the form of waves of electric and magnetic fields with a range of frequencies or wavelengths.
+
+![image](https://github.com/user-attachments/assets/1ae113a1-c088-4b20-b892-25ceb28964dc)
+
+
 ## Satellite Orbit Fundamentals
 An orbit is the curved path that an object in space (such as a star, planet, moon, asteroid or spacecraft) takes around another object due to gravity. 
 
@@ -117,6 +122,7 @@ Gravity causes objects in space that have mass to be attracted to other nearby o
 ![image](https://github.com/user-attachments/assets/50edf3dd-8217-4afc-9fad-5277fabf98fe)
 
 -LoRa Basics 
+LoRa is a wireless audio frequency technology that operates in a license-free radio frequency spectrum. LoRa is a physical layer protocol that uses spread spectrum modulation and supports long-range communication at the cost of a narrow bandwidth. It uses a narrow band waveform with a central frequency to send data, which makes it robust to interference.
 
 ## Antennas
 
@@ -128,11 +134,18 @@ Because there are many applications involving radio, the way the radio wave shou
 **Types of Antennas :**
 
 **Standard Dipole**
+A dipole antenna commonly consists of two identical conductive elements[5] such as metal wires or rods.[2][6][7](p 3) The driving current from the transmitter is applied, or for receiving antennas the output signal to the receiver is taken, between the two halves of the antenna. Each side of the feedline to the transmitter or receiver is connected to one of the conductors. This contrasts with a monopole antenna, which consists of a single rod or conductor with one side of the feedline connected to it, and the other side connected to some type of ground
 
+![WhatsApp Image 2024-07-13 at 12 53 46](https://github.com/user-attachments/assets/bce1435b-da4d-47e8-9910-100348aaa413)
 
 A variation of this type of antenna is 'V' (or "Vee") antenna is a dipole with a bend in the middle so its arms are at an angle instead of co-linear.
 
+![WhatsApp Image 2024-07-13 at 12 53 45 (1)](https://github.com/user-attachments/assets/72d89c95-8d51-41a2-9f27-56150f2115e2)
+
+
+
 **Whip/Monopole**
+
 A monopole antenna is a class of radio antenna consisting of a straight rod-shaped conductor, often mounted perpendicularly over some type of conductive surface, called a ground plane. 
 However at lower frequencies, the size of the dipole can become impractical.
 
@@ -149,12 +162,29 @@ A Yagi–Uda antenna, or simply Yagi antenna, is a directional antenna consistin
 
 ## Introduction ot ESP32 Development Board
 
+![image](https://github.com/user-attachments/assets/f486f023-08fd-4046-a478-8006c311adaf)
+
+
+Microcontroller: The ESP32 is a dual-core microcontroller developed by Espressif Systems.
+
+Wi-Fi and Bluetooth: It integrates Wi-Fi (802.11 b/g/n) and Bluetooth (BLE) connectivity, making it suitable for IoT (Internet of Things) applications.
+
+Processor: It features a Tensilica Xtensa LX6 dual-core processor, clocked at up to 240 MHz.
+
+Memory: Typically, it comes with 520 KB SRAM and 4 MB Flash memory, but variations with more memory are also available.
+
 ## ESP32+LoRa
 
--By integrating ESP32 with LoRa we get a versatile platform capable of connecting to the internet via Wi-Fi while also transmitting data over long distances using LoRa. This makes it ideal for applications like sensor networks, remote monitoring, and other IoT projects where both local and long-range communication are required. 
+![image](https://github.com/user-attachments/assets/b43f4081-c314-49dc-9db9-9049e22cde8a)
+
+By integrating ESP32 with LoRa we get a versatile platform capable of connecting to the internet via Wi-Fi while also transmitting data over long distances using LoRa. This makes it ideal for applications like sensor networks, remote monitoring, and other IoT projects where both local and long-range communication are required. 
+
+Both ESP32 and LoRa are designed to be power-efficient. ESP32 can manage its power consumption effectively, and LoRa modules can transmit data while consuming minimal energy, extending battery life in remote or battery-operated devices.
+
 
 
  ## Lab-1 Introduction to ESP32:
+ 
 <ul>
   <li>Install and configure Arduino IDE</li>
   <li>Introduction to ESP32 development kit.</li>
@@ -1053,11 +1083,9 @@ EN					' End of NEC input
 
 **Lab 17: Setting up a TinyGS ground station**
 
-![Screenshot (499)](https://github.com/user-attachments/assets/bce919be-5187-4200-958e-4db33bdee0ae)
+ ![Screenshot (499)](https://github.com/user-attachments/assets/e770127b-9c50-4826-a2b1-0bf3cfb5e893)
 
-
-
-
+![Screenshot (500)](https://github.com/user-attachments/assets/d6a17a46-9ee9-4fda-861f-90e5bd58b40e)
 
 
 ## Lab 18: Processing TLE data with Python
