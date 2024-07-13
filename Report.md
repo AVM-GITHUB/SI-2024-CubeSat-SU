@@ -47,13 +47,34 @@ Phase-shift keying is a digital modulation process which conveys data by changin
   -Antenna Basics
 
 ## Lab Excercises
-**Lab-1 : Introduction to ESP32 Programming**
-
- 
-
-
 ## Introduction ot ESP32 Development Board
+
 ## ESP32+LoRa
-   -By integrating ESP32 with LoRa we get a versatile platform capable of connecting to the internet via Wi-Fi while also transmitting data over long distances using LoRa. This makes it ideal for applications like sensor networks, remote monitoring, and other IoT projects where both local and long-range communication are required. 
+-By integrating ESP32 with LoRa we get a versatile platform capable of connecting to the internet via Wi-Fi while also transmitting data over long distances using LoRa. This makes it ideal for applications like sensor networks, remote monitoring, and other IoT projects where both local and long-range communication are required. 
+
+
+**Lab-1 : Introduction to ESP32 Programming**
+ 
+**Lab-2 : Intro to GPIO programming**
+
+**Lab-3 : Dimming LED using PWM**
+**Lab-4 : Dimming multiple LEDs**
+**Lab 5: Printing data in the serial monitor**
+**Lab 6: Controlling an LED through serial monitor**
+**Lab 7: I2C-based OLED Display control**
+**Lab 8: Introduction Signal Processing using Python**
+**Lab 9: I2C temperature sensor interface**
+
+**Lab 10: Introduction to LoRa module**
+**Lab 11: LoRa communication**
+**Lab 12: Communication between two LoRa nodes**
+**Lab 13: LoRa one-to-many communication setup**
+**Lab 14: Introduction to antenna modeling and simulation software 4NEC2.**
+**Lab 15: Physical design of Dipole and V-dipole antennas**
+
+**Lab 16: Introduction to TinyGS**
+**Lab 17: Setting up a TinyGS ground station**
+
+
 
 # Setting up TinyGS groundstation
