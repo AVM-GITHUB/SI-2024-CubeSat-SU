@@ -61,9 +61,6 @@ A dispenser is an interface between CubeSat and  Launch vehicle .
 
 During the launch, the CubeSats are fully enclosed by the dispensers and are only dispensed upon the signal by the launch vehicle.
 
-**Launch Vehicles (LVs) or, Rockets.**
-
-# Satellite Communication
 
 ## Basic Digital Modulation
 -Modulation is the process of superimposing high-frequency carrier signals with low-frequency message signals resulting in a modulated wave. In modulation, one of the three parameters of the carrier wave is changed i.e. amplitude, frequency or phase according to the amplitude of the message signal at a given time instant. It is an important technique used to increase the range of communication, increase the signal-to-noise ratio, and decrease the size of the antenna.
