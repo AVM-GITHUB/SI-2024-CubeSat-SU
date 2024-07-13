@@ -73,6 +73,7 @@ In Digital Modulation, only the carrier signal is analogue and the message signa
 
 **Amplitude Shift Keying  :** 
 
+Amplitude-shift keying (ASK) is a form of amplitude modulation that represents digital data as variations in the amplitude of a carrier wave. In an ASK system, a symbol, representing one or more bits, is sent by transmitting a fixed-amplitude carrier wave at a fixed frequency for a specific time duration. For example, if each symbol represents a single bit, then the carrier signal could be transmitted at nominal amplitude when the input value is 1, but transmitted at reduced amplitude or not at all when the input value is 0.
 
 ![image](https://github.com/user-attachments/assets/1b14ba58-6beb-4a89-b2f7-fa62804a94e7)
 
@@ -91,12 +92,25 @@ Phase-shift keying is a digital modulation process which conveys data by changin
 
 ![image](https://github.com/user-attachments/assets/51c04203-0783-4f67-8d0e-58457f7b37f3)
 
-
-## Basic Bandpass Modulation
-
+ 
 ## ELectromagnetic Specturm
 
 ## Satellite Orbit Fundamentals
+An orbit is the curved path that an object in space (such as a star, planet, moon, asteroid or spacecraft) takes around another object due to gravity. 
+
+Gravity causes objects in space that have mass to be attracted to other nearby objects. If this attraction brings them together with enough momentum, they can sometimes begin to orbit each other. 
+
+**Types of Orbits**
+
+<li>Geostationary orbit (GEO) 
+  
+<li>Low Earth orbit (LEO) 
+
+<li>Medium Earth orbit (MEO) 
+
+<li>Polar orbit and Sun-synchronous orbit (SSO)
+
+<li>Transfer orbits and geostationary transfer orbit (GTO)
 
 ## LoRa Tranceiver (Radio) Architecture
 
