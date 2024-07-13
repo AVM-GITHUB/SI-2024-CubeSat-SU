@@ -111,6 +111,9 @@ However at lower frequencies, the size of the dipole can become impractical.
 
 **Yagi-Uda**
 
+A Yagi–Uda antenna, or simply Yagi antenna, is a directional antenna consisting of two or more parallel resonant antenna elements in an end-fire array; these elements are most often metal rods (or discs) acting as half-wave dipoles.Yagi–Uda antennas consist of a single driven element connected to a radio transmitter or receiver (or both) through a transmission line, and additional passive radiators with no electrical connection, usually including one so-called reflector and any number of directors
+
+![image](https://github.com/user-attachments/assets/e6d1a00c-76b8-4a16-945b-700e59773cc7)
 
 
 ## Lab Excercises
