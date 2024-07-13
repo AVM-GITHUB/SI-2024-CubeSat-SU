@@ -25,9 +25,13 @@ The culmination of the course involves the deployment of a TinyGS ground station
 
 A CubeSat, short for Cube Satellite, is a type of miniaturized satellite used primarily for space research, education, and commercial purposes. The term "CubeSat" refers to a standard for small satellites that was developed to reduce the cost of satellite missions and facilitate easier access to space.
 
+
 **Charecteristics of CubeSat**
 
 Standardized Size and Shape: CubeSats are typically small, cube-shaped satellites with standardized dimensions. The most common size is 10 cm x 10 cm x 10 cm (1U), but they can also be larger configurations such as 1.5U, 2U, 3U, and so on, where each "U" represents a unit of 10 cm x 10 cm x 10 cm.
+
+![image](https://github.com/user-attachments/assets/04a89c0f-3f00-454d-bd59-9612b737a93f)
+
 
 Modular Design: CubeSats are designed to be modular, which means they can be easily customized and assembled using standardized components and interfaces. This modularity allows for rapid development and deployment of satellite missions.
 
@@ -37,6 +41,17 @@ This feauture of CubeSat allows for mass modular production and low cost product
 Short Development Cycles: CubeSats typically have shorter development cycles compared to larger satellites, which allows for quicker iteration and testing of new technologies and experiments in space.
 
 Payload Flexibility: Despite their small size, CubeSats can carry a variety of payloads depending on the mission objectives. Payloads can include scientific instruments, cameras, communication systems, and more. But as compared to traditional satellites the working aspect of a CubeSat is not much diverse and is limited due to its smaller size .
+
+## **Layers of CubeSat**
+![Screenshot 2024-07-11 160347](https://github.com/DonaldB2003/SI-2024-CubeSat-SU/assets/173866002/d08f1305-1be7-4f56-8325-a75a60d7d034)
+<ul>
+  <li>layer 1-Antenna</li>
+  <li>layer 2-communication radio</li>
+  <li>layer 3-On Board Computer</li>
+  <li>layer 4-Attitude control rods</li>
+  <li>layer 5-power management system</li>
+  <li>layer 6-magnet and battery</li>
+</ul>
 
 **CubeSat Dispenser System**
 
