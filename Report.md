@@ -1053,10 +1053,6 @@ EN					' End of NEC input
 
 **Lab 17: Setting up a TinyGS ground station**
 
-
-
-# Setting up TinyGS groundstation
-
 ![Screenshot (499)](https://github.com/user-attachments/assets/bce919be-5187-4200-958e-4db33bdee0ae)
 
 
